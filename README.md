@@ -1,4 +1,5 @@
 # F-99
-Ninety-Nine F# Problems
+My solution for Ninety-Nine F# Problems
+
 https://github.com/paks/99-FSharp-Problems
 
